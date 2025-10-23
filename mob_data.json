@@ -1,0 +1,56 @@
+{
+    "Guardian Kozzalym": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 7200,
+        "variance_mode": "none"
+    },
+    "Master Yael": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
+    "TestMob6Minutes": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 6,
+        "variance_mode": "none"
+    },
+    "VP Ground Spawn - Kaesora": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 480,
+        "variance_mode": "none"
+    },
+    "VP Ground Spawn - Swamp of No Hope": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 480,
+        "variance_mode": "none"
+    },
+    "Zordak Ragefire": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 1440,
+        "variance_mode": "plusminus"
+    },
+    "a bloodgill marauder": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 480,
+        "variance_mode": "none"
+    },
+    "an ancient Jarsath": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 480,
+        "variance_mode": "none"
+    },
+    "an angry goblin": {
+        "max_variance": 432,
+        "min_variance": 0,
+        "respawn_min": 4320,
+        "variance_mode": "plus"
+    }
+}
