@@ -1,9 +1,261 @@
 {
+    "a bloodgill marauder": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 480,
+        "variance_mode": "none"
+    },
+    "A dracoliche": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "an ancient Jarsath": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 480,
+        "variance_mode": "none"
+    },
+    "an angry goblin": {
+        "max_variance": 432,
+        "min_variance": 0,
+        "respawn_min": 4320,
+        "variance_mode": "plus"
+    },
+    "Aaryonar": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Cazic Thule": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Cekenar": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Dain Frostreaver IV": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Dagarn the Destroyer": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Dartain the Lost": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 864,
+        "variance_mode": "none"
+    },
+    "Derakor the Vindicator": {
+        "max_variance": 60,
+        "min_variance": -60,
+        "respawn_min": 480,
+        "variance_mode": "plusminus"
+    },
+    "Dozekar the Cursed": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Dread": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
+    "Drusella Sathir": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 1440,
+        "variance_mode": "none"
+    },
+    "Druushk": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Eashen of the Sky": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Faydedar": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Faydedar (Triggered)": {
+        "max_variance": 120,
+        "min_variance": -120,
+        "respawn_min": 720,
+        "variance_mode": "plusminus"
+    },
+    "Fright": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
+    "Gorenaire": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Gozzrem": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Grozzmel": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
     "Guardian Kozzalym": {
         "max_variance": 0,
         "min_variance": 0,
         "respawn_min": 7200,
         "variance_mode": "none"
+    },
+    "Hoshkar": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Ikatiar the Venom": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Innoruuk": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Jorlleag": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Kelorek`Dar": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "King Tormax": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Klandicar": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Lady Mirenilla": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Lady Nevederia": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Lady Vox": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Lendiniara the Keeper": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Lord Doljonijiarnimorinar": {
+        "max_variance": 720,
+        "min_variance": -720,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
+    "Lord Feshlak": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Lord Koi'Doken": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Lord Kreizenn": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Lord Nagafen": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Lord Vyemm": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Lord Yelinak": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Maestro of Rancor": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
+    "Master of the Guard": {
+        "max_variance": 720,
+        "min_variance": -720,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
     },
     "Master Yael": {
         "max_variance": 480,
@@ -11,11 +263,155 @@
         "respawn_min": 4320,
         "variance_mode": "plusminus"
     },
-    "TestMob6Minutes": {
+    "Midayor": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
+    "Nexona": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Overking Bathezid": {
         "max_variance": 0,
         "min_variance": 0,
-        "respawn_min": 6,
+        "respawn_min": 120,
         "variance_mode": "none"
+    },
+    "Phara Dar": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Phinigel Autropos": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 720,
+        "variance_mode": "none"
+    },
+    "Prince Selrach Di'zok": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 120,
+        "variance_mode": "none"
+    },
+    "Queen Velazul Di`zok": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 120,
+        "variance_mode": "none"
+    },
+    "Sevalak": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Severilous": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Silverwing": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Sontalak": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Talendor": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Telkorenar": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Terror": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
+    "The Final Arbiter": {
+        "max_variance": 720,
+        "min_variance": -720,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
+    "The Progenitor": {
+        "max_variance": 720,
+        "min_variance": -720,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
+    "The Statue of Rallos Zek": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 7200,
+        "variance_mode": "plusminus"
+    },
+    "Trakanon": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
+    "Trakanon (Triggered)": {
+        "max_variance": 60,
+        "min_variance": 0,
+        "respawn_min": 600,
+        "variance_mode": "plus"
+    },
+    "Tunare": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Vaniki": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 7320,
+        "variance_mode": "none"
+    },
+    "Vilefang": {
+        "max_variance": 0,
+        "min_variance": 0,
+        "respawn_min": 1440,
+        "variance_mode": "none"
+    },
+    "Velketor the Sorcerer": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
+    "Venril Sathir": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
+    "Venril Sathir (Triggered)": {
+        "max_variance": 120,
+        "min_variance": -120,
+        "respawn_min": 1440,
+        "variance_mode": "plusminus"
     },
     "VP Ground Spawn - Kaesora": {
         "max_variance": 0,
@@ -29,28 +425,52 @@
         "respawn_min": 480,
         "variance_mode": "none"
     },
+    "Vulak`Aerr": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Wuoshi": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Xygoz": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
+    "Ymmeln": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 4320,
+        "variance_mode": "plusminus"
+    },
+    "Zlandicar": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 6480,
+        "variance_mode": "plusminus"
+    },
+    "Zlexak": {
+        "max_variance": 480,
+        "min_variance": -480,
+        "respawn_min": 10080,
+        "variance_mode": "plusminus"
+    },
     "Zordak Ragefire": {
         "max_variance": 480,
         "min_variance": -480,
         "respawn_min": 1440,
         "variance_mode": "plusminus"
     },
-    "a bloodgill marauder": {
+    "Scout Charisa": {
         "max_variance": 0,
         "min_variance": 0,
-        "respawn_min": 480,
+        "respawn_min": 600,
         "variance_mode": "none"
-    },
-    "an ancient Jarsath": {
-        "max_variance": 0,
-        "min_variance": 0,
-        "respawn_min": 480,
-        "variance_mode": "none"
-    },
-    "an angry goblin": {
-        "max_variance": 432,
-        "min_variance": 0,
-        "respawn_min": 4320,
-        "variance_mode": "plus"
     }
 }
